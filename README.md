@@ -4,8 +4,11 @@ Pizza Sales Report using PowerBI
 I came across the dataset online and I practice my skills of data cleaning,analysis and visualization.
 
 # Problem Statement
+->Need to analyze the key indicators for pizza sales data to gain insights into business performance.Specially, total revenue, averahe order value, tatal pizza sold, total orders, avg pizzas per order
 
+->Make charts and bars showcasing top revenue generating pizza based on total revenue and total orders, lowest revenue generating pizza, etc.
 
+-> Add slicer based on pizza category.
 
 
 # Data Sourcing
